@@ -96,7 +96,7 @@ All visualizations are included inside the `.ipynb` notebook.
 
 ## 📄 Files in This Folder
 
-- **EDA_Task2.ipynb** – Complete exploratory analysis  
+- **Eda.ipynb** – Complete exploratory analysis  
 - **Task2_vedio link**-  
 - **Images/** – Plots generated during the analysis (optional)  
 
