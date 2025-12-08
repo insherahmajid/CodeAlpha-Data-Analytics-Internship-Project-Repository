@@ -44,10 +44,8 @@ For each book, the following information was collected:
 ---
 
 ##  Output
-The final dataset is stored as:
-
-`task1_books_page1.csv`  
-
+The final dataset is stored as:[task1_books_page1.csv](task1_books_page1.csv)  
+**Notebook:** [codealpha_webscraping.ipynb](Python/codealpha_webscraping.ipynb)
 It contains **20 records**, each representing one book from Page 1.
 
 ---
