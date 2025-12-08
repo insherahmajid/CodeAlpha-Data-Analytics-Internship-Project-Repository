@@ -46,7 +46,7 @@ For each book, the following information was collected:
 ##  Output 
 The final dataset is stored as: [books_page1_clean.csv](CodeAlpha_webscraping/books_page1_clean.csv)  
 **Notebook:** [codealpha_webscraping.ipynb](CodeAlpha_webscraping/codealpha_webscraping.ipynb)
-
+**Vedio Explanation**[WATCH HERE](https://drive.google.com/file/d/1PNX-tVDWoUzP-Ka62EVYtr_B8UPQqaA3/view?usp=sharing)
 It contains **20 records**, each representing one book from Page 1.
 
 ---
