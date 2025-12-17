@@ -1,11 +1,14 @@
-This project is part of Task 4: Sentiment Analysis for the CodeAlpha Data Analyst Internship.
+#  Amazon Electronics Reviews – Sentiment Analysis  
+**CodeAlpha Internship | Task 4 – Sentiment Analysis **
+
+**Objective**
 The objective is to analyze Amazon Electronics reviews and classify them into positive, neutral, or negative sentiments using Natural Language Processing (NLP).
 Two sentiment approaches were applied:
 1.Rating-based sentiment (derived from star ratings)
 2.Text-based sentiment using VADER
 This helps understand customer satisfaction, opinion patterns, and product issues.
 
-📂 Dataset
+ **Dataset**
 The dataset consists of Amazon electronics product reviews including:
 Review text
 Rating
