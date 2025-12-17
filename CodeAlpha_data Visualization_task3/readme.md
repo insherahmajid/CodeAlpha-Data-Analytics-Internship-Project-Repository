@@ -112,6 +112,19 @@ These slicers allow dynamic, drill-down analysis across time and rating levels.
 - Optimized for both analysis and presentation
 
 ---
+Files
+-  **Power BI File:** [.pbix`]()
+ - **Dashboard Report (PDF):** []()  
+-**Dashboard Preview:**  
+ <p align="center">
+    <img src="Images/cyc1.png"
+     </p>
+   <p align="center">
+    <img src="Images/cyc2.png"
+     </p>
+---
+
+
 
 ## 👩‍💻 Author
 **Insherah Majid**  
