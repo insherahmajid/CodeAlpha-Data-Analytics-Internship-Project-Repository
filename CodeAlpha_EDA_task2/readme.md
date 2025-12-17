@@ -139,6 +139,7 @@ Word frequency bar chart
 📄 Files in This Folder
 
 [Eda.ipynb](Eda.ipynb) – Complete exploratory data analysis notebook
+* LinkedIn Post Link:https://www.linkedin.com/posts/insherah-majid-146496317_codealpha-dataanalytics-exploratorydataanalysis-activity-7405620150567178242-u6d6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBW4kYBpa2mBkrH4-NH-AnzPdSnKTptRTo
 
 📝 Key Insights
 
